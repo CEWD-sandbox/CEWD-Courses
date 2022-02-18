@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOMAIN TYPE Courses - CEWD</title>
+     <!-- Bootsrap CSS -->
+     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+     <!-- Link to Custom CEWD Style Sheet -->
+     <link rel="stylesheet" href="/style.css">
+ </head>
+</head>
+<body>
+<!-- Container/section start -->
+<div class="row page-section text-left">
+  <!-- Hero banner start -->
+  <div id="top" style="font-family:'Montserrat';" id="page-content">
+      <div style="font-family:'Montserrat';" id="page-content">
+      <div style="box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;padding-top:50px;padding-bottom:50px;background: rgb(0,38,100);
+            background: linear-gradient(90deg, rgba(0,38,100,1) 0%, rgba(40,82,152,1) 100%);" class="col-md-12">
+               <h1 style="color:#fff;">Insert Domain Type Courses</h1>
+                <h2 style="color:#fff;">Domain description</h2>
+                <a href="/index.html" class="btn btn-default">Return to all CEWD Courses</a>
+        </div>
+        </div>
+  <!-- Hero banner end -->
+
+
+  <div style="margin-top:25px;" class="col-md-12">
+    <h2><b>Domain Type Courses for March 2022</b>
+    </h2>
+  </div>
+
+<!-- Accordion -->
+
+<!-- Accordion item start -->
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed">Course Name</a>
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+            </h4>
+        </div>
+
+    <div id="collapseOne" class="panel-collapse collapse" style="height: 0px;">
+    <div class="panel-body">
+        <b>Course aim</b>
+            <p>The aim of this course is</p>
+
+        <b>Course requirements</b>
+            <p>Participants are required to
+            </p>
+
+        <b>Course objectives</b>
+            <ul>
+                <li>.</li>
+                <li>.</li>
+                <li>.</li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+
+        <b>March course information</b>
+            <table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>Location ?</td>
+                        <td>Date?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+            <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUMHERE" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+        </div>
+    </div>
+</div>
+<!-- Accordion item end -->
+
+<!-- Accordion item start -->
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+          Course Name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p>The aim of this course is</p>
+    
+    <b>Course objectives</b>
+            <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+      
+            <b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>Location ?</td>
+                        <td>Date?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+<a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+<!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+          Course Name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>? Location</td>
+                        <td>? Date</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+        Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseFour" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>? Location </td>
+                        <td>? Date</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+          Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseFive" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>? Location</td>
+                        <td>? dates</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCourseNUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+         Course Name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseSix" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>? Location</td>
+                        <td>? dates</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCourseNUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <!-- <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+         Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseSeven" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+        <p></p>
+
+<b>Course objectives</b>
+        <ul>
+            <li>.</li>
+            <li>.</li>
+            <li>.</li>
+        </ul>
+
+    <b>Target group</b>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul> -->
+
+<!-- Course info table-->
+
+
+<!-- <b>March course information</b>
+<table class="table table-bordered">
+<thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Date(s)</th>
+                    <th>Course length</th>
+                </tr>
+            </thead>
+        
+            <tbody>
+                <tr>
+                    <td>Location ?</td>
+                    <td>Date?</td>
+                    <td>? hours</td>
+                </tr>
+            </tbody>
+</table> -->
+
+<!--MHL button-->
+
+<!-- <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUMHERE" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div> -->
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
+          Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseEight" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <ul>
+              <li></li>
+           </ul>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li>Nursing staff</li>
+                <li>Allied Health staff who work within an Adult Mental Health Clinical Environment</li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
+          Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseNine" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+    <p></p>
+            <ul>
+                <li></li>
+            </ul>
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
+          Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseTen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">
+         Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseEleven" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?/td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve">
+         Course name
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseTwelve" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+        <p></p>
+
+<b>Course objectives</b>
+        <ul>
+            <li></li>
+        </ul>
+
+    <b>Target group</b>
+        <ul>
+            <li></li>
+        </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+<thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Date(s)</th>
+                    <th>Course length</th>
+                </tr>
+            </thead>
+        
+            <tbody>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? hours</td>
+                </tr>
+            </tbody>
+</table>
+
+<!--MHL button-->
+
+<a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">
+         course 
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseThirteen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+        <p></p>
+
+<b>Course objectives</b>
+        <ul>
+            <li></li>
+        </ul>
+
+    <b>Target group</b>
+        <ul>
+            <li></li>
+        </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+<thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Date(s)</th>
+                    <th>Course length</th>
+                </tr>
+            </thead>
+        
+            <tbody>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? hours</td>
+                </tr>
+
+            </tbody>
+</table>
+
+<!--MHL button-->
+
+<a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUM" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <!-- <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen">
+        course
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseFourteen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p>The aim of this course is.</p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li>.</li>
+                <li>.</li>
+                <li>.</li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul> -->
+
+<!-- Course info table-->
+
+
+<!-- <b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>Location ?</td>
+                        <td>Date?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table> -->
+
+<!--MHL button-->
+
+    <!-- <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUMHERE" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div> -->
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen">
+          course
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseFifteen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+            <ul>
+                <li></li>
+            </ul>
+
+        <b>Target group</b>
+            <ul>
+                <li></li>
+            </ul>
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCoursenum" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen">
+         course
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseSixteen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+            <p></p>
+    
+    <b>Course objectives</b>
+    <p></p>
+    <ul>
+      <li></li>
+    </ul>
+            
+        <!-- <b>Target group</b>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul> -->
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+    <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Date(s)</th>
+                        <th>Course length</th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr>
+                        <td>?</td>
+                        <td>?</td>
+                        <td>? hours</td>
+                    </tr>
+                </tbody>
+</table>
+
+<!--MHL button-->
+
+    <a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3Dcoursenum" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+  <!-- Accordion item start -->
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen">
+          course
+        </a>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen"><i class="indicator glyphicon glyphicon-chevron-down  pull-right"></i></a>
+      </h4>
+    </div>
+    <div id="collapseSeventeen" class="panel-collapse collapse">
+      <div class="panel-body">
+        <b>Course aim</b>
+        <p></p>
+
+        <b>Course objectives</b>
+    <ul>
+      <li></li>
+    </ul>
+
+
+<!-- Course info table-->
+
+
+<b>March course information</b>
+<table class="table table-bordered">
+<thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Date(s)</th>
+                    <th>Course length</th>
+                </tr>
+            </thead>
+        
+            <tbody>
+                <tr>
+                    <td>?</td>
+                    <td>Date?</td>
+                    <td>? hours</td>
+                </tr>
+            </tbody>
+</table>
+
+<!--MHL button-->
+
+<a href="https://nswhealth.seertechsolutions.com.au/sso/saml/auth/nswhealth?RelayState=deeplinkrco%3DCOURSENUMHERE" target="_blank" class="btn btn-default">View and apply on My Health Learning</a>
+      </div>
+    </div>
+  </div>
+  <!-- Accordion item end -->
+
+</div>
+<!-- Container/section end -->
+<!-- row page section end-->
+</div>
+
+<!-- Bootstrap JavaScript Area -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <!-- JS for chevrons -->
+    <script src="/script.js"></script>
+</body>
+</html>
