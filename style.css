@@ -77,7 +77,7 @@ a{
 body {
 	margin: 0px;
 	font-size: 12px;
-	font-family: Verdana, Arial, Univers;
+	font-family: 'Public sans', sans-serif;
 	background-image: url(/images/page_bkgdWhite.jpg);
 	background-repeat: repeat-x;
 	text-align:center;
