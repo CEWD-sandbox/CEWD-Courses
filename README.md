@@ -4,4 +4,4 @@ This is where I have hosted the HTML, CSS and JavaScript for the CEWD courses we
 
 >Please feel free to copy any of the code in this repo
 
-To view the live version of the CEWD courses webpage project https://cewd-sandbox.github.io/CEWD-Courses/
+To view the live version of the CEWD courses webpage project see => https://cewd-sandbox.github.io/CEWD-Courses/
